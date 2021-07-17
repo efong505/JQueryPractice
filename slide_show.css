@@ -1,0 +1,12 @@
+img {
+    width: 1000px;
+}
+
+#slides img {
+    display: none;
+}
+
+body {
+    margin: 0 auto ;
+    padding: 20px;
+}
